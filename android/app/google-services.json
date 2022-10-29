@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676661354986",
+    "project_id": "electro-app-edc21",
+    "storage_bucket": "electro-app-edc21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676661354986:android:8547465caa964fec6ad293",
+        "android_client_info": {
+          "package_name": "com.electroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676661354986-m8gqlh73cmdar05alnn6gsebls8tv870.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Ds9NqQ2gS96tcmDR3qtfyHzfMnMWSbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676661354986-m8gqlh73cmdar05alnn6gsebls8tv870.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
